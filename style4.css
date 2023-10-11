@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    
+}
+
+@media(max-width: 1024px){
+    body{
+        max-width: 970px;
+    }
+}
+
+@media(max-width: 992px){
+    body{
+        max-width: 750px;
+    }
+}
+    
+@media(max-width: 767px){
+    body{
+        max-width: none;
+    }
+}
+.aaa1{
+    text-decoration: none;
+    color: #ffff;
+}
+.header{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 250px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+.header-1{
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 750px;
+    margin-top: -37px;
+}
+.rel{
+    color: #ffff;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.head{
+    background-color: #191919;
+    padding-top: 1px;
+    padding-bottom: 30px;
+}
+.head2{
+    font-family: Fira Sans;
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+
+.k{
+    margin-left: 170px;
+
+
+}
+.ttt{
+    margin-top: 20px;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-left: -80px;
+    font-family: Fira Sans;
+    font-size: 35px;
+    background-color: #e3e3e3;
+    margin-right: 30px;
+    border-radius: 3%;
+}
+
+.cont{
+    background-color: #000000;
+    padding-bottom: 20px;
+}
+.header-end{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 250px;
+
+}
+.meropriation{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 750px;
+    margin-top: -45px;
+}
+.aaa{
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 750px;
+    margin-top: -10px;
+}
+.aaa a{
+    text-decoration: none;
+    color: #ffff;
+}
+.contact{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 1000px;
+    margin-top: -185px;
+}
+.aa{
+    font-family: Fira Sans;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 1000px;
+    margin-top: -30px;
+    color: #ffff;
+}

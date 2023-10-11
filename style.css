@@ -1,0 +1,198 @@
+body{
+    margin: 0;
+    min-width: 1300px;
+}
+
+/* фиксированная верстка */
+
+.header{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.header-1{
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 750px;
+    margin-top: -37px;
+}
+.rel{
+    color: #ffff;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.head{
+    background-color: #191919;
+    padding-top: 1px;
+    padding-bottom: 30px;
+}
+.img{
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.txt-image{
+    display: inline-block;
+}
+.double2-image{
+    margin-top: 20px;
+    display: block;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #eeeeee;
+    padding: 4px;
+    border-radius: 8%;
+}
+.double3-image{
+    margin-top: 20px;
+    display: block;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #eeeeee;
+    padding: 4px;
+    border-radius: 8%;
+}
+.d-i{
+    margin-left: 900px;
+    margin-top: -350px;
+
+}
+.afisha{
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 250px;
+    padding-top: 150px;
+}
+.afisha-2{
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 700;
+    margin-left: 1000px;
+    margin-top: -50px;
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: #eeeeee;
+    border-radius: 5%;
+    padding: 20px;
+}
+
+.a-1{
+    font-family: Fira Sans;
+    font-size: 30px;
+    display: inline-block;
+
+}
+.sp{
+    display: inline-block;
+}
+.image{
+    display: inline-block;
+
+}
+.txt{
+    display: inline-block;
+}
+.end{
+    font-family: Fira Sans;
+    font-size: 20px;
+    display: inline-block;
+}
+.k{
+    margin-left: 250px;
+
+}
+.ttt{
+    margin-top: 20px;
+}
+.anonse{
+    font-family: Fira Sans;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 250px;
+}
+.sqrt-1 p {
+    display: inline-block;
+}
+.sqrt-1{
+    margin-left: 250px;
+}
+.cont{
+    background-color: #000000;
+    padding-bottom: 20px;
+}
+.header-end{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 250px;
+
+}
+.meropriation{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 750px;
+    margin-top: -45px;
+}
+.aaa{
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 750px;
+    margin-top: -10px;
+}
+.aaa a{
+    text-decoration: none;
+    color: #ffff;
+}
+.contact{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 1000px;
+    margin-top: -185px;
+}
+.aa{
+    font-family: Fira Sans;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 1000px;
+    margin-top: -30px;
+    color: #ffff;
+}
+.aaa1{
+    text-decoration: none;
+    color: #ffff;
+}
+.btn2{
+    display: inline-block;
+    background-color: #05B093;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Fira Sans;
+    border-radius: 15%;
+    padding: 25px 35px;
+    margin-left: 70px;
+}

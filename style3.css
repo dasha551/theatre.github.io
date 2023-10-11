@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    min-width: 1300px;
+}
+.header{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.header-1{
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 750px;
+    margin-top: -37px;
+}
+.rel{
+    color: #ffff;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.head{
+    background-color: #191919;
+    padding-top: 1px;
+    padding-bottom: 30px;
+}
+.head2{
+    font-family: Fira Sans;
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 60px;
+}
+.txt1{
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
+.i{
+    font-size: 22px;
+    font-style: italic;
+    font-style: bold;
+}
+.first1{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.scnd{
+    margin-left: 850px;
+    margin-top: -290px;
+}
+.cont{
+    background-color: #000000;
+    padding-bottom: 20px;
+}
+.header-end{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 250px;
+
+}
+.meropriation{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 750px;
+    margin-top: -45px;
+}
+.aaa{
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 750px;
+    margin-top: -10px;
+}
+.aaa a{
+    text-decoration: none;
+    color: #ffff;
+}
+.contact{
+    font-family: Fira Sans;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffff;
+    margin-left: 1000px;
+    margin-top: -185px;
+}
+.aa{
+    font-family: Fira Sans;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 1000px;
+    margin-top: -30px;
+    color: #ffff;
+}
+.aaa1{
+    text-decoration: none;
+    color: #ffff;
+}
